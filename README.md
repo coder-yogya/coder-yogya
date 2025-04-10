@@ -81,4 +81,4 @@ Feel free to explore my repositories, raise issues, or just say hi.
 Thanks for visiting!
 
 — Yogya  
-*Developer • Researcher • Dreamer*
+*Junior dev (just learning and practicing) 
