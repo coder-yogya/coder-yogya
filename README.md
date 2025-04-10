@@ -37,9 +37,9 @@ Here are the core technologies I work with regularly:
 
 ---
 
-## 📱 Termux Mastery
+## 📱 
 
-I develop a lot using **Termux**, pushing the limits of mobile Linux. 
+I develop everything using **Termux**, pushing the limits of mobile Linux. 
 
 Yes, I build everything **from Android**—and yes, it works smoothly.
 
