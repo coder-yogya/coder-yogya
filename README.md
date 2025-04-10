@@ -78,6 +78,11 @@ Feel free to explore my repositories, raise issues, or just say hi.
   </a>
 </p>
 
+## My current Project:
+- **NeuroShell**:
+  NeuroShell is a powerful, AI-integrated command-line shell designed to 	 transform your coding experience—especially on Android (Termux) devices. Unlike traditional shells, NeuroShell blends sleek UI styling with intelligent features like auto aliasing, AI-assisted completions, and a smart integrated editor called neuroEdit. It adapts to your environment, supports custom prompt themes, and learns your usage patterns to boost your productivity. Whether you're managing files, installing packages, or writing Python code, NeuroShell acts like a personal assistant—understanding, responding, and executing with human-like intuition. Built with a coder's heart, it's crafted for lightweight systems like Termux but dreams big, like a universe-level bug solver in your pocket. 
+  
+
 Thanks for visiting!
 
 — Yogya  
